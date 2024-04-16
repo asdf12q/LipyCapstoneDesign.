@@ -2,7 +2,7 @@ import React from "react";
 
 const Socialing = () => {
     return <div>
-        소셜
+        <h1>소셜</h1>
     </div>;
 };
 

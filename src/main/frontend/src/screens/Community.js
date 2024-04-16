@@ -2,7 +2,7 @@ import React from "react";
 
 const Community = () => {
     return <div>
-        커뮤
+        <h1>커뮤</h1>
     </div>;
 };
 
